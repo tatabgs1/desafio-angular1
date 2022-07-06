@@ -1,11 +1,11 @@
 # DESAFIO DIO - Trabalhando com Páginas SPA com Angular
 
-##1-Crie uma aplicação Angular (Não esqueça que todo código precisa estar no GitHub)
-##2-Crie no mínimo 3 componentes que deverão estar interagindo na mesma página (Não esqueça das rotas)
-##3-Escolha no mínimo 4 componentes do Angular Material e incorpore eles em sua aplicação.
-##4-Crie em uma das páginas uma interação através da Interpolação e/ou utilizando Property Biding.
-##5-Crie uma explicação sobre o que foi feito, esta explicação será inserida na plataforma junto com o link para o código no GitHub.
-##6-Você poderá criar um vídeo demonstrativo da aplicação construída, e publicá-lo no YouTube, passando o link de acesso na plataforma. Este passo 6, não é obrigatório, mas entrará como um diferencial.
+- 1-Crie uma aplicação Angular (Não esqueça que todo código precisa estar no GitHub)
+- 2-Crie no mínimo 3 componentes que deverão estar interagindo na mesma página (Não esqueça das rotas)
+- 3-Escolha no mínimo 4 componentes do Angular Material e incorpore eles em sua aplicação.
+- 4-Crie em uma das páginas uma interação através da Interpolação e/ou utilizando Property Biding.
+- 5-Crie uma explicação sobre o que foi feito, esta explicação será inserida na plataforma junto com o link para o código no GitHub.
+- 6-Você poderá criar um vídeo demonstrativo da aplicação construída, e publicá-lo no YouTube, passando o link de acesso na plataforma. Este passo 6, não é obrigatório, mas entrará como um diferencial.
 
 # Consumindo Api da Marvel Comics, fazendo um catalago dos personagens.
 O intuito é criar um layout para que possa acomodar os dados da Api da Marvel (https://developer.marvel.com/).
@@ -29,7 +29,7 @@ Por exemplo, um usuário com uma chave pública de “1234” e uma chave privad
 ## Em caso de erro com as chaves para chamar a API ou "Error 401 Unauthorized connecting with Marvel API" consulte:
 https://stackoverflow.com/questions/56755603/error-401-unauthorized-connecting-with-marvel-api
 
-Fonte de ajuda: https://medium.com/lfdev-blog/usando-angular-8-para-consumir-api-da-marvel-f95aa9e41818
+## Fonte de ajuda: https://medium.com/lfdev-blog/usando-angular-8-para-consumir-api-da-marvel-f95aa9e41818
 ------------------------------------------------------------------------------------------------------
 
 # CatalogoMarvel
